@@ -1,0 +1,61 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgba(106, 231, 102, 0.705);
+    color:rgb(235, 231, 28);
+    padding: 10px 0; 
+    border: 10px red;
+}
+
+
+main {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgba(86, 190, 238, 0.877);
+}
+
+.outline {
+    border: 1px black solid;
+}
+
+center{
+    padding-left: 1em;
+   padding-right: 1em; 
+       
+   }
+
+   a:link, a:visited {
+    color: black;
+    text-decoration:none;
+    font-size:1.5em;
+    display: block;
+    border-radius: 20px;
+background:rgba(175, 222, 255, 0.73)
+}
+
+Li{
+    list-style-type: none;
+    float: left;
+    width: 10em;
+    border: 3px solid #000 ;
+    text-align: center;
+    position: relative;
+     border-radius: 20px;
+    margin-right: 1em;
+     margin-left: 1em;
+}
+
+a:hover{
+    color: fuchsia;
+
+
+}
+
+nav{ display: inline-block;
+margin-left: -40px; }
+
