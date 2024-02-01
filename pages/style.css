@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: rgba(255, 0, 212, 0.774);
+    color:rgb(180, 37, 92);
+    padding: 10px 0; 
+    border: 10px red dashed;
+    /* border: 10x purple dashed */
+}
+
+main {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(91, 223, 223);
+}
+
+footer {
+    background-color: #f57b99;
+    color: white;
+    padding: 10px 0;
+}
+
+.outline {
+    border: 1px black solid;
+}
+
+label {
+    display: block;
+}
