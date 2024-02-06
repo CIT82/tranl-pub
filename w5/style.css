@@ -1,0 +1,71 @@
+body {
+    background-image: url('https://thegeorgeanne.com/wp-content/uploads/2021/01/Howls-Moving-Castle-2004.jpeg');
+
+    min-height:500px;
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+
+background-size: cover;
+
+        font-family: sans-serif;
+        margin:0px;
+        font-size: 1.7em;
+       }
+    font-family: Arial, Helvetica, sans-serif
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    center{
+        padding-left: 1em;
+       padding-right: 1em;
+
+       }
+
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:papayawhip;
+}
+
+header {
+    background-color: rgba(255, 0, 212, 0.774);
+    color:rgb(180, 37, 92);
+    padding: 10px 0; 
+    border: 10px red dashed;
+    /* border: 10x purple dashed */
+
+}
+
+main {
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(91, 223, 223);
+}
+
+footer {
+    background-color: #f57b99;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.outline {
+    border: 1px black solid;
+}
+
+label {
+    display: block;
+    text-align: center;
+
+}
+
+
+body {
+    padding: 5em;
+    margin: 5em;
+}
