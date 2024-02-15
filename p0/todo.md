@@ -1,0 +1,15 @@
+- [ ] Design the layout of the website 
+- [ ] Replace and find images for each content  
+- [ ] Further develop the profile subpage 
+- [ ] Add a contact information page inside the home page 
+- [ ] Change the website logo 
+- [ ] Come up with possible website’s name 
+- [ ] Create several redirect links where, when you press the download button, it will lead you to the storefront’s game purchase link or a website to download it 
+- [ ] Remove unnecessarily codes such as web fonts  
+- [ ] Make the website background/theme brighter to match my favorite asthetic 
+- [ ] Replace streamer's name with actual people or imaginary people
+- [ ] Replace the fake data with real data (if I can find it on the internet)
+- [ ] Update the fonts family
+- [ ] Insert more clips/youtube video links into the profile section
+- [ ] Add an informative info guide to how to livestream, or create a redirect link on a how to guide
+- [ ] Featuring real youtubers and redirect to their actual streaming website, such as Kick or Twitch or Youtube Streaming
