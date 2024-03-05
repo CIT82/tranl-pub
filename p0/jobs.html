@@ -8,7 +8,7 @@
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Yggrasil - Contact Us</title>
+    <title>Yggrasil - Recruitment</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -103,40 +103,34 @@
         <div class="page-content">
  <!-- Featured Games Start -->
  <p style="color: white;">
-  If you have any addtional information or inqueries, we're here to help! Whether you have questions, need technical support, or want to share your feedback, feel free to reach out. Your satisfaction is our priority. If you've enjoyed our service, we'd appreciate your review. 
-Your feedback helps us improve and ensures we continue delivering the best streaming experience possible.
+    Ready to be part of something extraordinary? Yggdrasil is more than just a streaming company - it's a creative hub where innovation thrives and imaginations soar! We are excited to have you in our team, so if you feel like you have the spirit and potential to be one of our brave "warriors"
+<h5>Apply Now!</h5>
+    
 
-</p>
-<form action="">
-  <div class="mb-3">
-      <label for="nameInput" class="form-label" style="color: white;">Name</label>
-      <input type="text" class="form-control" id="nameInput" />
-  </div>
-  <div class="mb-3">
-      <label for="emailInput" class="form-label" style="color: white;">Email address</label>
-      <input
-          type="email"
-          class="form-control"
-          id="emailInput"
-          placeholder="name@example.com"
-      />
-  </div>
-  <div class="mb-3">
-      <label for="subjectInput" class="form-label" style="color: white;">Subject</label>
-      <input type="text" class="form-control" id="subjectInput" />
-  </div>
-  <div class="mb-3">
-      <label for="messageInput" class="form-label" style="color: white;">Message</label>
-      <textarea
-          class="form-control"
-          id="messageInput"
-          rows="3"
-      ></textarea>
-  </div>
-  <div class="col-12">
-      <button type="submit" class="btn btn-light">Send</button>
-  </div>
-</form>
+<form id="recruitmentForm" action="#" method="post">
+    <div class="form-group">
+      <label for="inputName">Full Name</label>
+      <input type="text" class="form-control" id="inputName" placeholder="Enter your full name" required>
+    </div>
+    <div class="form-group">
+      <label for="inputEmail">Email address</label>
+      <input type="email" class="form-control" id="inputEmail" placeholder="Enter your email" required>
+    </div>
+    <div class="form-group">
+      <label for="inputPosition">Desired Position</label>
+      <select class="form-control" id="inputPosition" required>
+        <option value="">Select...</option>
+        <option value="developer">Developer</option>
+        <option value="designer">Designer</option>
+        <option value="marketer">Marketer</option>
+        <option value="manager">Manager</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <input type="file" class="form-control-file" id="inputResume" accept=".pdf,.doc,.docx" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit Application</button>
+  </form>
   
   <footer>
     <div class="container">
